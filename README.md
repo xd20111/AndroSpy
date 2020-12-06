@@ -16,12 +16,11 @@ Android 10    - OK
 AndroSpy Project aims to most powerful-stable-useful open source Android RAT.  
 
 <img src="https://user-images.githubusercontent.com/45147475/101283742-7da9f800-37ed-11eb-86ce-4b2c702962b4.PNG" width="40%"></img> 
-<img src="https://user-images.githubusercontent.com/45147475/101283744-800c5200-37ed-11eb-9a6d-182c4c339639.PNG" width="30%"></img> 
-<img src="https://user-images.githubusercontent.com/45147475/101283745-800c5200-37ed-11eb-9cea-006ecaf63ef1.PNG" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/45147475/101283744-800c5200-37ed-11eb-9a6d-182c4c339639.PNG" width="30%"></img>  
 <img src="https://user-images.githubusercontent.com/45147475/101283746-81d61580-37ed-11eb-817c-c3e936c1d7c8.PNG" width="30%"></img> 
 <img src="https://user-images.githubusercontent.com/45147475/101283748-83074280-37ed-11eb-94ff-3a508a0413c0.png" width="30%"></img> 
-<img src="https://user-images.githubusercontent.com/45147475/101283749-84386f80-37ed-11eb-82bd-0f372ae50369.PNG" width="30%"></img>   
-
+<img src="https://user-images.githubusercontent.com/45147475/101283749-84386f80-37ed-11eb-82bd-0f372ae50369.PNG" width="30%"></img>  
+<img src="https://user-images.githubusercontent.com/45147475/101283745-800c5200-37ed-11eb-9cea-006ecaf63ef1.PNG" width="30%"></img>
 
 # Update 6 december 2020 on Version 3  
 +Added Live Screen (MediaProjection API has been available since API Level 21, for more: https://developer.android.com/  
