@@ -3,6 +3,9 @@
 
 An Android RAT that written in completely C# by me (qH0sT a.k.a Sagopa K)  
 
++How can I build a Client?  
+- https://www.youtube.com/watch?v=JPUsRh7LNi0  (thanks to AndroTricks for this video)
+
 Minumum Android Version: 4.1    
 
 Tested on some systems:  
