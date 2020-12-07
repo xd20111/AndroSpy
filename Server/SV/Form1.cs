@@ -602,6 +602,10 @@ namespace SV
                             {
                                 canliekran.pictureBox1.Image = ((Image)new ImageConverter().ConvertFrom(Convert.FromBase64String(s[1])));
                             }
+                            else
+                            {
+                               KomutGonder("SCREENLIVECLOSE", "[VERI][0x09]", soket2);
+                            }
                             break;
                     }
                 }
