@@ -8,6 +8,8 @@ An Android RAT that written in completely C# by me (qH0sT a.k.a Sagopa K)
 
 Minumum Android Version: 4.1    
 
+Not: update the path in the settings.tht of sound.wav in Debug folder.
+
 Tested on some systems:  
 Android 4.4.2 - OK  
 Android 5.1.1 - OK  
